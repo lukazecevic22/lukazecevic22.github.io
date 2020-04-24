@@ -1,1 +1,1 @@
-https://lukazecevic22.github.io/login
+https://lukazecevic22.github.io
